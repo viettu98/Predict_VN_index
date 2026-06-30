@@ -205,4 +205,3 @@ Stock price 5/3/2020 of VNINDEX :  898.12
 
 ---
 
-**⭐ Nếu dự án hữu ích, vui lòng cho một Star!** ⭐
