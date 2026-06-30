@@ -194,32 +194,10 @@ Stock price 5/3/2020 of VNINDEX :  898.12
 - **Thời gian Execution**: Lần đầu tiên (~5-10 phút), lần tiếp theo (~2-3 phút)
 - **Dự báo**: Dự báo 28 ngày tiếp theo từ ngày 2/10/2019
 
----
-
-## 👤 Tác Giả
-
-**viettu98** - GitHub: [@viettu98](https://github.com/viettu98)
 
 ---
 
-## 📄 License
-
-Dự án này được cấp phép dưới MIT License - tự do sử dụng cho mục đích cá nhân và thương mại.
-
----
-
-## 🤝 Đóng Góp
-
-Mọi đóng góp, kiến nghị đều được chào đón! Vui lòng:
-1. Fork dự án
-2. Tạo branch feature (`git checkout -b feature/AmazingFeature`)
-3. Commit thay đổi (`git commit -m 'Add some AmazingFeature'`)
-4. Push lên branch (`git push origin feature/AmazingFeature`)
-5. Mở Pull Request
-
----
-
-## ⚠️ Lưu Ý Quan Trọng
+## ⚠️ Lưu Ý
 
 - **Rủi ro**: Dự báo thị trường không bao giờ 100% chính xác. Không sử dụng để quyết định đầu tư thực tế.
 - **Dữ liệu quá cũ**: Dataset được sử dụng từ năm 2000-2019, có thể không phản ánh chính xác tình hình hiện tại.
